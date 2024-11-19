@@ -57,7 +57,7 @@ This lightweight app, built with **Python 🐍** and **Tkinter**, is perfect for
 ---
 
 ### **🔥 Quick Start with `.exe` File**  
-- **Download the executable file** from the [Releases section](#).  
+- **Download the executable file** from the [Releases section](https://github.com/umairahmadx/Notepad-Tkinter/releases/latest).  
 - Run the `.exe` directly – no setup needed! 🚀  
 
 ---
@@ -76,19 +76,8 @@ This lightweight app, built with **Python 🐍** and **Tkinter**, is perfect for
 ```
 /notepad
 ├── notepad.py    # Main Python script
-├── README.md     # Project documentation
+└── README.md     # Project documentation
 ```
-
----
-
-## **Future Improvements**  
-🔮 Planned updates:  
-- 🌙 Add support for **dark mode**.  
-- 🔄 Include **Undo/Redo** functionality.  
-- 📊 Add a status bar with details like word count and file path.  
-
----
-
 
 ## **Author**  
 👨‍💻 Developed by **Umair** 💓.
